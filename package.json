@@ -1,0 +1,1 @@
+{"name":"pippa-chat","version":"1.1.0","private":true,"type":"module","scripts":{"start":"node server.js","test":"node --test test/adapters.test.js test/security.test.js test/server.test.js test/renderer.test.js"},"engines":{"node":">=22"}}
